@@ -1,7 +1,7 @@
 body {
     color:rgb(255, 255, 255);
     background:rgb(18, 20, 32);
-    margin: 0px
+    margin: 0px;
     font-family:"Playfair Display", serif;
 }
 
@@ -20,7 +20,8 @@ section{
 }
 
 .chamada-texto {
-    margin-right: 5%;  font-family: "Abril Fatface", serif;
+    margin-right: 5%;  
+    font-family: "Abril Fatface", serif;
     font-weight: 400;
     font-style: normal;
 }
