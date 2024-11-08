@@ -1,8 +1,8 @@
 body {
-    color:rgb(255, 255, 255);
-    background:rgb(18, 20, 32);
+    color: rgb(255, 255, 255);
+    background: rgb(18, 20, 32);
     margin: 0px;
-    font-family:"Playfair Display", serif;
+    font-family: "Playfair Display", serif;
 }
 
 header {
@@ -11,17 +11,17 @@ header {
     padding: 16px;
 }
 
-section{
+section {
     background: rgb(31, 30, 65);
     padding-bottom: 80px;
     padding-top: 50px;
-    display : flex;
+    display: flex;
     justify-content: center;
 }
 
 .chamada-texto {
-    margin-right: 5%;  
-    font-family: "Abril Fatface", serif;
-    font-weight: 500;
+    margin-right: 5%;
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
     font-style: normal;
 }
